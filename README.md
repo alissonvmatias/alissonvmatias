@@ -1,4 +1,4 @@
-## Salve! Me chamo Alisson Matias
+## Olá! Me chamo Alisson Matias
 
 - 👨🏽‍🎓 Cursando Análise e Densolvimento de Sistemas
 - ⌛ Estudando framework Laravel
